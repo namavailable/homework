@@ -1,4 +1,5 @@
 # homework
-12
-34
-qqqwwww
+14
+ff4
+fff
+
